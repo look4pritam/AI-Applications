@@ -1,2 +1,3 @@
-# AI-Applications
-AI Applications
+# AI Applications
+
+See [link](Problems) for more details.
