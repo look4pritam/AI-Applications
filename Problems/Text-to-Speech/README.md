@@ -1,7 +1,7 @@
 # Text to Speech
 - Solve any one sub-problem only.
 - 20 marks
-- 2 bonus points for Gradio based Graphical User Interface (GUI)
+- 2 bonus points for solving this problem successfully
   - Conditions
     - Total marks are less than 98 marks.
     - Total marks will be capped at 100 marks.    
