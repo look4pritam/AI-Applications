@@ -13,7 +13,7 @@
      
 2. Design and develop a video analytics system to
    - Extract the total bill value
-   - Extract the GST value value
+   - Extract the GST value
    - [(Sample image)](VLM/RestaurantInvoice.jpg)
 
 3. Design and develop a video analytics system to
