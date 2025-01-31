@@ -1,6 +1,7 @@
 # Project
 
-- Solve only one problem from each topic.
+- Solve one problem from Large Language Models
+- Solve one problem from Vision Language Models
 - Each problem - 10 marks
 - Total - 20 marks
 - 1 bonus point each for simple and compact prompts
