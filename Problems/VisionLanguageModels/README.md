@@ -17,8 +17,8 @@
    - [(Sample image)](VLM/RestaurantInvoice.jpg)
 
 3. Design and develop a video analytics system to
-   - Find the gender
-   - Find the clothing colour
+   - Find the gender of the person
+   - Find the clothing colour of the person
    - [(Sample image)](Face/Sample.jpg)
 
 4. Design and develop a video analytics system to
