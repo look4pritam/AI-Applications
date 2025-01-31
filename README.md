@@ -1,3 +1,3 @@
 # AI Applications
 
-See [link](Problems) for more details.
+See [link](Problems) for more details on problem statements.
