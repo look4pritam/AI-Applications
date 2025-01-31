@@ -19,5 +19,5 @@
 1. [Llama-3.1 405B Instruct - NVIDIA](https://build.nvidia.com/meta/llama-3_1-405b-instruct)
 2. [Llama-3.2 1B Instruct - NVIDIA](https://build.nvidia.com/meta/llama-3.2-1b-instruct)
 3. [Llama-3.2 3B Instruct - NVIDIA](https://build.nvidia.com/meta/llama-3.2-3b-instruct)
-4. [Llama-3.2 1B Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
+4. [Llama-3.2 3B Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
 5. [Llama-3.2 1B Instruct](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct)
