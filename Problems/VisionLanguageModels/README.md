@@ -9,11 +9,14 @@
 
 ## Sub-problems 
 1. Design and develop a video analytics system to
-   - extract the vehicle number plate text
-   - Colour of the vehicle   - 
+   - Extract the vehicle number plate text
+   - Extract the colour of the vehicle
    - [(Sample image)](ANPR/Sample.png)
      
-3. Design and develop a video analytics system for extracting vehicle number plate text from an input image. - [(Sample image)]()
+2. Design and develop a video analytics system to
+   - Extract the total bill value
+   - Extract the GST value value
+   - [(Sample image)](VLM/RestaurantInvoice.jpg)
 
 
 ## References
@@ -22,4 +25,3 @@
 3. [Llama-3.2-90B-Vision-Instruct](https://huggingface.co/meta-llama/Llama-3.2-90B-Vision-Instruct)
 4. [Llama-3.2-11B-Vision-Instruct - NVIDIA](https://build.nvidia.com/meta/llama-3.2-11b-vision-instruct)
 5. [Llama-3.2-90B-Vision-Instruct - NVIDIA](https://build.nvidia.com/meta/llama-3.2-90b-vision-instruct)
-
