@@ -16,6 +16,21 @@
    - Extract the GST value value
    - [(Sample image)](VLM/RestaurantInvoice.jpg)
 
+3. Design and develop a video analytics system to
+   - Find the gender
+   - Find the clothing colour
+   - [(Sample image)](Face/Sample.jpg)
+
+4. Design and develop a video analytics system to
+   - Generate the caption for the input image
+   - Describe the input image 
+   - [(Sample image)](Caption/Caption.jpg)
+
+5. Design and develop a video analytics system to
+   - Extract the total bill value
+   - Extract the GST value value
+   - [(Sample image)](VLM/RestaurantInvoice.jpg)
+
 ## References
 1. [Llama-3.2-11B-Vision-Instruct - NVIDIA](https://build.nvidia.com/meta/llama-3.2-11b-vision-instruct)
 2. [Llama-3.2-90B-Vision-Instruct - NVIDIA](https://build.nvidia.com/meta/llama-3.2-90b-vision-instruct)
