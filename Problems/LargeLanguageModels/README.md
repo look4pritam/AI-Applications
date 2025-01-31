@@ -12,6 +12,6 @@
       
 ## References
 1. [Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
-1. [Llama-3.2-1B-Instruct](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct)
-1. [Llama-3.2 with Gradio](https://huggingface.co/spaces/ysharma/Llama3-2_with_Gradio-5)
+2. [Llama-3.2-1B-Instruct](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct)
+3. [Llama-3.2 with Gradio](https://huggingface.co/spaces/ysharma/Llama3-2_with_Gradio-5)
 
