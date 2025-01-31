@@ -1,4 +1,4 @@
-India to develop affordable AI model under Rs 100/hour
+# India to develop affordable AI model under Rs 100/hour
 
 India on Thursday outlined global artificial intelligence ambitions with plans to build its own 'foundational model' that could take on the might of ChatGPT, DeepSeek R1 and others, as it lined up "most affordable" common compute facility powered by 18,693 GPUs to be used by startups and researchers, for creating artificial intelligence applications, and new algorithms.
 India's bold move comes at a time when Chinese company DeepSeek has turned heads after its AI model overtook ChatGPT as the top-ranked free app on Apple's appstore, challenging the AI dominance concentrated so far with the US firms, particularly Silicon Valley frontrunner Open AI.
