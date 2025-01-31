@@ -2,8 +2,7 @@
 - Solve any one sub-problem only.
 - 10 marks
 - 1 bonus point for simple and compact prompt
-  - Note
-    - Total marks will be capped at 100 marks.
+  - Note - Total marks will be capped at 100 marks.
 
 ## Sub-problems 
 1. Design and develop a text analytics system to summarize an input paragraph. [(Sample paragraph)](Sample.md)
