@@ -11,5 +11,5 @@
 2. Desing and develop a transliteration system for English words to words in your mother tongue.
 
 ## References
-1. [IndicTrans2-AI4Bharat](https://github.com/AI4Bharat/IndicTrans2)
+1. [Transliteration-AI4Bharat](https://github.com/AI4Bharat/IndicXlit)
 2. [Gradio in Google Colab](https://colab.research.google.com/drive/18ODkJvyxHutTN0P5APWyGFO_xwNcgHDZ)
