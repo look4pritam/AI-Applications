@@ -27,9 +27,9 @@
    - [(Sample image)](Caption/Caption.jpg)
 
 5. Design and develop a video analytics system to
-   - Extract the total bill value
-   - Extract the GST value value
-   - [(Sample image)](VLM/RestaurantInvoice.jpg)
+   - Extract the type of fruit from the input image
+   - Extract the price of the fruit from the input image
+   - [(Sample image)](Price/Price.png)
 
 ## References
 1. [Llama-3.2-11B-Vision-Instruct - NVIDIA](https://build.nvidia.com/meta/llama-3.2-11b-vision-instruct)
