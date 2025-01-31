@@ -8,8 +8,12 @@
 
 
 ## Sub-problems 
-1. Design and develop a video analytics system for extracting vehicle number plate text from an input image. - [(Sample image)]()
-2. Design and develop a video analytics system for extracting vehicle number plate text from an input image. - [(Sample image)]()
+1. Design and develop a video analytics system to
+   - extract the vehicle number plate text
+   - Colour of the vehicle   - 
+   - [(Sample image)](ANPR/Sample.png)
+     
+3. Design and develop a video analytics system for extracting vehicle number plate text from an input image. - [(Sample image)]()
 
 
 ## References
