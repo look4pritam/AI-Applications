@@ -7,9 +7,9 @@
     - Total marks will be capped at 100 marks.    
 
 ## Sub-problems 
-1. Desing and develop a machine translation system for translating English sentences into Hindi sentences.
-2. Desing and develop a machine translation system for translating Hindi sentences into English sentences.
-3. Desing and develop a machine translation system for translating Hindi sentences into sentences in your mother tongue.
+1. Design and develop a machine translation system for translating English sentences into Hindi sentences.
+2. Design and develop a machine translation system for translating Hindi sentences into English sentences.
+3. Design and develop a machine translation system for translating Hindi sentences into sentences in your mother tongue.
 
 ## References
 1. [IndicTrans2-AI4Bharat](https://github.com/AI4Bharat/IndicTrans2)
