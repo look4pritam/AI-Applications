@@ -1,11 +1,16 @@
+# Project
+
+- Solve only one problem from each topic.
+- Each problem - 10 marks
+- Total - 20 marks
+- 1 bonus point each for simple and compact prompts
+  
 # Problems
 
-1. [Machine Translation](MachineTranslation)
-2. [Large Language Models](LargeLanguageModels)
-3. [Text Analytics](TextAnalytics)
-4. [Text to Speech](Text-to-Speech)
-5. []()
-6. []()
+1. [Large Language Models](TextAnalytics)
+2. [Vision Language Models](VisionLanguageModels)
 
-## Note
-- We will help you in Python package installation. If you need help ask us.
+# Hints
+- No need to wrtie any code.
+- [Prompt engineering](https://www.youtube.com/watch?v=Bq-ncjOGeVU) is required.
+  
