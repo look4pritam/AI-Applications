@@ -1,9 +1,8 @@
 # Large Language Models
 - Solve any one sub-problem only.
-- 20 marks
-- 2 bonus points for Gradio based Graphical User Interface (GUI)
-  - Conditions
-    - Total marks are less than 98 marks.
+- 10 marks
+- 1 bonus point for simple and compact prompt
+  - Note
     - Total marks will be capped at 100 marks.
 
 ## Sub-problems       
