@@ -2,7 +2,7 @@
 
 1. [Machine Translation](MachineTranslation)
 2. [Large Language Models](LargeLanguageModels)
-3. [Transliteration](Transliteration)
+3. [Text Analytics](TextAnalytics)
 4. [Text to Speech](Text-to-Speech)
 5. []()
 6. []()
